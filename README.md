@@ -1,10 +1,5 @@
-# Using Hilt in your Android app
+# This logging app illustrate dependency injection with hilt
 
-This folder contains the source code for the "Using Hilt in your Android app" codelab.
-
-The codelab is built in multiple GitHub branches:
-* `master` is the codelab's starting point.
-* `solution` contains the solution to this codelab.
 
 
 # Introduction
